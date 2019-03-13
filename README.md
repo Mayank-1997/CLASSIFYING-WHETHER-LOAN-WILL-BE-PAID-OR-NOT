@@ -1,8 +1,8 @@
-CLASSIFYING-WHETHER-LOAN-WILL-BE-PAID-OR-NOT
+# CLASSIFYING-WHETHER-LOAN-WILL-BE-PAID-OR-NOT
 
-This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. It includes following fields:</br>
-|    Field	            |       Description |
-| -----------           |  ------------     |
+This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. It includes following fields:
+| Field	                |  Description |
+| -----------           |  ----------- |
 | Loan_status	          |  Whether a loan is paid off on in collection |
 | Principal	            |  Basic principal loan amount | 
 | Terms	                |  Origination terms which can be weekly (7 days), biweekly, and monthly payoff schedule |
